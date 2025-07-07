@@ -95,7 +95,7 @@ export default function BeforeAfterSlider({ items }: BeforeAfterSliderProps) {
         {/* Image Comparison Area */}
         <div
           ref={containerRef}
-          className="relative w-full h-[300px] sm:h-[400px] md:h-[500px] lg:h-[450px] overflow-hidden cursor-grab active:cursor-grabbing select-none"
+          className="relative w-full h-[500px] sm:h-[500px] md:h-[500px] lg:h-[450px] overflow-hidden cursor-grab active:cursor-grabbing select-none"
           onMouseDown={handleMouseDown}
           onMouseMove={handleMouseMove}
           onMouseUp={handleEnd}
