@@ -8,24 +8,17 @@ import BeforeAfterSlider from "./before-after-slider"
 const beforeAfterItems = [
   {
     id: 1,
-    beforeImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=1920&auto=format&fit=crop",
-    afterImage: "https://images.unsplash.com/photo-1504307651254-35680f356dfd?q=80&w=1920&auto=format&fit=crop",
+    beforeImage: "/b1.jpg",
+    afterImage: "/a1.jpg",
     title: "Complete Roof Restoration",
     description: "Full roof repair with new shingles and protective coating",
   },
   {
     id: 2,
-    beforeImage: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?q=80&w=1920&auto=format&fit=crop",
-    afterImage: "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=1920&auto=format&fit=crop",
+    beforeImage: "/b2.jpg",
+    afterImage: "/a2.jpg",
     title: "Roof Cleaning & Painting",
     description: "Professional cleaning and fresh protective paint application",
-  },
-  {
-    id: 3,
-    beforeImage: "https://images.unsplash.com/photo-1572120360610-d971b9d7767c?q=80&w=1920&auto=format&fit=crop",
-    afterImage: "https://images.unsplash.com/photo-1560518883-ce09059eeffa?q=80&w=1920&auto=format&fit=crop",
-    title: "Tile Roof Renovation",
-    description: "Complete tile replacement and structural reinforcement",
   },
 ]
 

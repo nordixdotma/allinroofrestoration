@@ -90,7 +90,7 @@ export default function AboutUs() {
             }`}
           >
             <Image
-              src="https://source.unsplash.com/600x600/?roofing,construction,workers"
+              src="/logo.png"
               alt="All In Roof Restoration Team"
               fill
               className="object-cover transition-transform duration-700 ease-out hover:scale-105"

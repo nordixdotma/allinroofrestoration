@@ -12,7 +12,7 @@ export default function Footer() {
           <div>
             <Link href="/">
               <Image
-                src="/logo-footer.png"
+                src="/logowhite.png"
                 alt="All In Roof Restoration Logo"
                 width={120}
                 height={60}
@@ -25,7 +25,7 @@ export default function Footer() {
             </p>
             <div className="flex space-x-3 md:space-x-4 mt-4 md:mt-6">
               <SocialLink href="https://www.facebook.com/allinroofrestoration" icon={<Facebook size={16} />} />
-              <SocialLink href="https://www.instagram.com/nordix.ma" icon={<Instagram size={16} />} />
+              <SocialLink href="https://www.instagram.com/allinroofrestoration" icon={<Instagram size={16} />} />
             </div>
           </div>
 

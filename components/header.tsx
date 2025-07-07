@@ -87,16 +87,13 @@ export default function Header() {
         }`}
       >
         <Link href="/" className="relative z-20 mr-4 flex items-center px-2 py-1">
-          <div className="w-12 h-12 rounded-full overflow-hidden">
+          <div className="h-12 overflow-hidden">
             <img
-              src={visible ? "/logo-scrolled.png" : "/logo-default.png"}
+              src={visible ? "/logoc.png" : "/logowhite.png"}
               alt="All In Roof Restoration"
               className="w-full h-full object-cover"
             />
           </div>
-          <span className={`ml-2 font-bold text-xl transition-colors ${visible ? "text-[#018dc8]" : "text-white"}`}>
-            All In Roof Restoration
-          </span>
         </Link>
 
         <motion.div
@@ -163,16 +160,13 @@ export default function Header() {
       >
         <div className="flex w-full flex-row items-center justify-between">
           <Link href="/" className="flex items-center">
-            <div className="w-10 h-10 rounded-full overflow-hidden">
+            <div className="h-10 rounded-full overflow-hidden">
               <img
-                src={visible ? "/logo-scrolled.png" : "/logo-default.png"}
+                src={visible ? "/logoc.png" : "/logowhite.png"}
                 alt="All In Roof Restoration"
                 className="w-full h-full object-cover"
               />
             </div>
-            <span className={`ml-2 font-bold text-lg transition-colors ${visible ? "text-[#018dc8]" : "text-white"}`}>
-              All In Roof
-            </span>
           </Link>
 
           <button
