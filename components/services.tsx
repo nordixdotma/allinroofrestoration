@@ -25,21 +25,21 @@ export default function Services() {
       title: "Roof Cleaning",
       description: "Comprehensive roof cleaning services to remove moss, algae, debris, and stains.",
       link: "/services#cleaning",
-      backgroundImage: "https://images.unsplash.com/photo-1581578731548-c64695cc6952?q=80&w=1920&auto=format&fit=crop",
+      backgroundImage: "https://images.unsplash.com/photo-1635424710918-d5c138981922?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       icon: <Shield className="h-6 w-6 md:h-8 md:w-8 text-white" />,
       title: "Roof Painting",
       description: "Professional roof painting and coating services using premium materials.",
       link: "/services#painting",
-      backgroundImage: "https://images.unsplash.com/photo-1589939705384-5185137a7f0f?q=80&w=1920&auto=format&fit=crop",
+      backgroundImage: "https://plus.unsplash.com/premium_photo-1683140838720-0757ec5dfe06?q=80&w=875&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
     {
       icon: <CheckCircle className="h-6 w-6 md:h-8 md:w-8 text-white" />,
       title: "Maintenance",
       description: "Regular maintenance programs to keep your roof in optimal condition.",
       link: "/services#maintenance",
-      backgroundImage: "https://images.unsplash.com/photo-1558618666-fcd25c85cd64?q=80&w=1920&auto=format&fit=crop",
+      backgroundImage: "hhttps://images.unsplash.com/photo-1635424709845-3a85ad5e1f5e?q=80&w=1171&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
     },
   ]
 
